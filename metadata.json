@@ -1,0 +1,8 @@
+{
+  "name": "MASUD ID CARD MAKER",
+  "description": "Professional bulk ID card generator with CSV integration, templates, real-time preview, and bulk exporting options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
